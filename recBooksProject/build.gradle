@@ -1,0 +1,25 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    implementation files('libs/AlgorithmModule.jar')
+    testImplementation 'junit:junit:4.12'
+}
+
+sourceCompatibility = '11'
+targetCompatibility = '11'
+
+// Example: Custom task or configuration
+task customTask {
+    // Define task actions
+}
+
+// Example: Packaging the application into a JAR
+jar {
+    // Specify manifest attributes or other configurations
+}
