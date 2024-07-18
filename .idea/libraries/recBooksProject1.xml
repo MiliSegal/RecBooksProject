@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="recBooksProject1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AlgorithmModule/build/libs/recBooksProject.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
